@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap-theme-starter",
+  "description": "Boorstrap theme starter project using SASS.",
+  "main": "index.js",
+  "authors": [
+    "Ritesh Dalal <ritesh@intellective.co>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}
