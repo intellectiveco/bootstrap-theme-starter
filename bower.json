@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-theme-starter",
-  "description": "Boorstrap theme starter project using SASS.",
+  "description": "Bootstrap theme starter project using SASS.",
   "main": "index.js",
   "authors": [
     "Ritesh Dalal <ritesh@intellective.co>"
